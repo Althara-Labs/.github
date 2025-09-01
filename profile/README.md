@@ -1,5 +1,7 @@
 # Althara Pacta
 
+> ## :bulb: 2nd Place of the Filecoin track in the Aleph Hackathon 2025
+
 > **Trust the process, verify on‑chain.**
 >
 > Transparent, auditable public procurement — tenders, bids, awards — powered by Ethereum smart contracts and Filecoin Onchain Cloud.
